@@ -1,6 +1,8 @@
 # graphql-generator
 > Graphql schema generator
 
+**DEPRECATED** in favour of [graph.ql](https://github.com/matthewmueller/graph.ql)
+
 
 ## Installation
 
